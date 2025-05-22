@@ -1,0 +1,25 @@
+# Core dependencies
+dash
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+scipy
+pynput
+
+# Additional dependencies
+contourpy
+cycler
+pupil-apriltags
+fonttools
+importlib-resources
+kiwisolver
+packaging
+pyparsing
+python-dateutil
+pytz
+six
+tzdata
+zipp
+evdev
